@@ -1,8 +1,8 @@
 <h3 align="center">I'm a Senior Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=godking29&label=Profile%20views&color=0e75b6&style=flat" alt="agilewebdev92" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=godking29&label=Profile%20views&color=0e75b6&style=flat" alt="godking29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="agilewebdev92" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="godking29" /></a> </p>
 
 - 💬 Ask me about **javascript, typescript, java, react, angular**
 <!--
@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godking29&show_icons=true&locale=en" alt="agilewebdev92" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godking29&" alt="agilewebdev92" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godking29&" alt="godking29" /></p>
